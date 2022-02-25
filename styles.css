@@ -1,0 +1,15 @@
+.button {
+    background-color: #eb1e73;
+    border-radius: 4px;
+    color: rgb(102, 236, 174);
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: dotted;
+    display: inline-block;
+    font-size: 36px;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
