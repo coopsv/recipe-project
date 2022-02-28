@@ -1,15 +1,19 @@
 .button {
-    background-color: #eb1e73;
-    border-radius: 4px;
-    color: rgb(102, 236, 174);
-    padding: 10px 10px;
     text-align: center;
-    text-decoration: dotted;
-    display: inline-block;
-    font-size: 36px;
+    font-family: savoyeletplain,Optima;
+    fill: #6d6e71;
+    color: #f03684;
+    border: 0;
+    font-size: 100px;
+    font-style: inherit;
+    font-weight: bold;
 }
 
 h1 {
-    font-family: sans-serif;
+    font-family: savoyeletplain,Optima;
+    font-size: 150px;
+    font-weight: 900;
+    color: #f0368341;
+    border: 0;
 }
 
